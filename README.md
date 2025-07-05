@@ -12,8 +12,6 @@
 
 [![Next.js MongoDB Amazona](/public/images/app.png)](https://next-mongo-ecommerce-final.vercel.app/)
 
-## Watch Video Tutorial
-
 [![Next.js MongoDB Amazona](https://i9.ytimg.com/vi/WLHCPwqHzzQ/mqdefault.jpg?v=676eca94&sqp=CIzAv7sG&rs=AOn4CLDrL8ebdZ8YJyJp96oMMKBTyAD1Dw)](https://youtu.be/WLHCPwqHzzQ)
 
 ## View Demo Website
@@ -115,6 +113,6 @@ https://next-mongo-ecommerce-final.vercel.app/
 - [36-create-settings-page](./lessons/36-create-settings-page.md)
 - [37-make-website-multilingual](./lessons/37-make-website-multilingual.md)
 
-## Contact Developer
+## Contact
 
-Email: basir.jafarzadeh@gmail.com
+Email: ishmaelbii416@gmail.com
