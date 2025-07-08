@@ -13,7 +13,7 @@
 
 ## View Demo Website
 
-https://next-mongo-ecommerce-final.vercel.app/
+https://zentoo-ecomm.vercel.app/
 
 ## What you will learn
 
